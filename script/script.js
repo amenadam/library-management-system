@@ -1,0 +1,1 @@
+let sidemenu = document.getElementById('sidemenu');

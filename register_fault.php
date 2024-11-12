@@ -1,0 +1,1 @@
+<a href="fault_reg.php">Register Problem</a>
